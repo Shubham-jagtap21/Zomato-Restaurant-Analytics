@@ -1,3 +1,31 @@
+# 🍽️ Zomato Restaurant Analytics Project
+
+## 📌 Project Overview
+An end-to-end data analytics project on Zomato's restaurant dataset to uncover insights on pricing, ratings, cuisine trends, service availability, and city-wise restaurant distribution. The goal was to help business teams identify what's working, where opportunities exist, and how the market is evolving.
+
+---
+
+## 🛠️ Tools & Technologies
+| Tool | Usage |
+|---|---|
+| SQL | Data extraction, JOINs, GROUP BY, ranking functions |
+| Python (Pandas) | Data cleaning and transformation |
+| Excel | Data standardization, validation, Excel Dashboard |
+| Power BI | Interactive KPI dashboard and visual analytics |
+| Tableau | Distribution maps and visual storytelling |
+
+---
+
+## 📂 Project Structure
+Zomato-Restaurant-Analytics/
+│
+├── Excel/              # Raw data and Excel dashboard
+├── SQL/                # SQL queries for analysis
+├── Power BI/           # Power BI .pbix dashboard file
+├── Tableau/            # Tableau dashboard file
+├── Zomato Analytics/   # Supporting analysis files
+└── README.md
+
 ---
 
 ## 🎯 Key Objectives
